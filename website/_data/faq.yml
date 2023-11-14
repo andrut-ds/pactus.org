@@ -67,10 +67,20 @@
   items:
     - id: total_supply
       ver: v1
-      img: pactus_coin_distribution.png
+
+    - id: genesis_accounts
+      ver: v1
+      img: genesis_accounts.png
+
+    - id: backup_account
+      ver: v1
 
     - id: treasury_account
       ver: v1
+
+    - id: reward_distribution
+      ver: v1
+      img: pactus_coin_distribution.png
 
 - title: transaction
   items:
